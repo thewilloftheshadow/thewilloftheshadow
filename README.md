@@ -6,3 +6,4 @@
 ![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/439223656200273932)
 
 -->
+![Shadow's github stats](https://github-readme-stats.vercel.app/api?username=thewilloftheshadow)
