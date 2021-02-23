@@ -7,3 +7,5 @@
 
 -->
 ![Shadow's github stats](https://github-readme-stats.vercel.app/api?username=thewilloftheshadow&count_private=true)
+![Shadow's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thewilloftheshadow)
+
