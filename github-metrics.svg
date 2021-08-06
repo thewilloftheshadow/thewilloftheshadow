@@ -1720,18 +1720,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">EJS</span>
-                            <div class="bar" style="width: 51.18365029804144%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">64%</span>
+                            <div class="bar" style="width: 58.80141992065149%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">74%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 24.070394550099348%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">30%</span>
+                            <div class="bar" style="width: 17.707245771559826%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">22%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 4.745955151859211%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">6%</span>
+                            <div class="bar" style="width: 3.4913343077886823%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
                         </div>
                     </div>
                 </section>
@@ -1751,7 +1751,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>myspaghetti/macos-virtualbox</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2108,7 +2108,7 @@
                                     </section>
                                     <footer>
                                         <span>These metrics include private contributions</span>
-                                        <span>Last updated 06/08/2021, 10:33 (timezone America/Chicago) with lowlighter/metrics@3.12.0</span>
+                                        <span>Last updated 06/08/2021, 11:21 (timezone America/Chicago) with lowlighter/metrics@3.12.0</span>
                                     </footer>
                                 </div>
                                 <div id="metrics-end"></div>
