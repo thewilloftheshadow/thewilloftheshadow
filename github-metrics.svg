@@ -2210,7 +2210,7 @@ We also still have db.get("game") for whether a game is running
                                 </div>
                                 <footer>
                                     <span>These metrics include private contributions</span>
-                                    <span>Last updated 02/10/2021, 12:16 (timezone America/Chicago) with lowlighter/metrics@3.14.0</span>
+                                    <span>Last updated 02/10/2021, 13:15 (timezone America/Chicago) with lowlighter/metrics@3.14.0</span>
                                 </footer>
                             </section>
                             <div id="metrics-end"></div>
