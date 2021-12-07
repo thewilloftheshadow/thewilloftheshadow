@@ -1989,7 +1989,7 @@
                                     </div>
                                 </div>
                                 <div class="field description">
-                  🥄 **EXPERIMENTAL** A generator for git messages
+                  🥄 **EXPERIMENTAL** A generator for semantic git messages
                 </div>
                                 <div class="field infos">
                                     <div class="language">
@@ -2293,7 +2293,7 @@
                             </section>
                             <footer>
                                 <span>These metrics include private contributions</span>
-                                <span>Last updated 7 Dec 2021, 14:16:41 (timezone America/Chicago) with lowlighter/metrics@3.16.0</span>
+                                <span>Last updated 7 Dec 2021, 15:13:51 (timezone America/Chicago) with lowlighter/metrics@3.16.0</span>
                             </footer>
                         </div>
                         <div id="metrics-end"></div>
