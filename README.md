@@ -1,7 +1,7 @@
 # Hey there, I'm Shadow
 
 ## About Me
-I'm a professional Discord bot developer and server admistrator, working on projects such as [The Narwhal](https://narwhal.cool) and [The Mountain Adventure](https://discord.gg/themountain).<br><br>
+I'm a professional Discord bot developer and server administrator, working on projects such as [The Narwhal](https://narwhal.cool) and [The Mountain Adventure](https://discord.gg/themountain).<br><br>
 
 My favorite thing to work on is Discord bots that are outside the typical moderation, leveling, etc bots.<br>
 I like to make fun and unique ideas, such as [Minstrel](), a project/community I'm working on that allows you to write and play your own second-person (also known as pick-your-path) stories and publish them to the world!<br>
