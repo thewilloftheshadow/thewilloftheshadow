@@ -16,3 +16,4 @@ Thanks for checking out my profile (and stalking me)!
 <!-- ![GitHub followers](https://img.shields.io/github/followers/thewilloftheshadow?style=for-the-badge)] -->
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/439223656200273932)](https://discord.com/users/439223656200273932)
+[![Join the Cave of Shadows](https://inv.wtf/widget/shadow)](https://inv.wtf/shadow)
