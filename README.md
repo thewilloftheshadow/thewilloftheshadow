@@ -8,8 +8,8 @@ I like to make fun and unique ideas, such as [Minstrel](), a project/community I
 
 ## For Hire
 I am available to work on your Discord project in two different ways. <br>
-- First, I am on Fiverr and I sell various gigs related to Discord. You can check that out [by clicking here](https://www.fiverr.com/lifeinhisshadow?up_rollout=true)<br>
-- Second, my DMs are always open if you want to directly commission me, and I can provide proof that I know what I'm doing and help you flesh out your idea before settling on a commission. I'm very flexible, and want you to be able to see your ideas come to life, instead of squeeze every bit of money I can out of you.<br>
+- First, I love to build servers and educate others on the best way to set up their own Discord servers.<br>
+- Second, my DMs are always open if you want to directly commission me for bot development, and I can provide proof that I know what I'm doing and help you flesh out your idea before settling on a commission. I'm very flexible, and want you to be able to see your ideas come to life, instead of squeeze every bit of money I can out of you.<br>
 
 Thanks for checking out my profile (and stalking me)!
 
