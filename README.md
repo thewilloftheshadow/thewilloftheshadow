@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Hey there, I'm Shadow
 
 ## About Me
