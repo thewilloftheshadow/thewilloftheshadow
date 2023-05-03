@@ -1,15 +1,10 @@
 # Hey there, I'm Shadow
 
 ## About Me
-I'm a professional Discord bot developer and server administrator, working on projects such as [The Narwhal](https://narwhal.cool) and [The Mountain Adventure](https://discord.gg/themountain).<br><br>
+I'm a professional Discord bot developer and server administrator, working on projects such as [Kiai](https://kiaibot.com) with my development studio, [Buape Studios](https://buape.com)
 
-My favorite thing to work on is Discord bots that are outside the typical moderation, leveling, etc bots.<br>
-I like to make fun and unique ideas, such as [Minstrel](), a project/community I'm working on that allows you to write and play your own second-person (also known as pick-your-path) stories and publish them to the world!<br>
+My favorite thing to work on are projects that are more than just the standard cookie-cutter portfolios or moderation Discord bots. Instead, I enjoy working on projects and concepts that are unique.
 
-## For Hire
-I am available to work on your Discord project in two different ways. <br>
-- First, I love to build servers and educate others on the best way to set up their own Discord servers.<br>
-- Second, my DMs are always open if you want to directly commission me for bot development, and I can provide proof that I know what I'm doing and help you flesh out your idea before settling on a commission. I'm very flexible, and want you to be able to see your ideas come to life, instead of squeeze every bit of money I can out of you.<br>
 
 Thanks for checking out my profile (and stalking me)!
 
