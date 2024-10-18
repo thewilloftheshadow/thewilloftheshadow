@@ -1,7 +1,7 @@
 # Hey there, I'm Shadow
 
 ## About Me
-I'm a professional Discord bot developer and server administrator, working on projects such as [Kiai](https://kiaibot.com) with my development studio, [Buape Studios](https://buape.com)
+I'm a professional Discord bot developer and server administrator, working on projects such as [Kiai](https://kiai.app) with my development studio, [Buape Studios](https://buape.com)
 
 My favorite thing to work on are projects that are more than just the standard cookie-cutter portfolios or moderation Discord bots. Instead, I enjoy working on projects and concepts that are unique.
 
