@@ -1,7 +1,7 @@
 # ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Shadow)
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+build+things+that+aren't+boring.)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+build+things+that+aren't+boring.)
 
 Founder of [Buape Studios](https://buape.com) — a dev studio focused on quality applications and empowering next-gen developers. Creator of [Kiai](https://kiai.app), the leveling bot that actually slaps.
 
@@ -12,7 +12,7 @@ Currently working on:
 - [Carbon](https://carbon.buape.com) — Framework for HTTP-based Discord bots
 - [OpenClaw](https://openclaw.ai) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-![Skills](https://skillicons.dev/icons?i=ts,discord,cloudflare,nodejs,git)
+![Skills](https://skillicons.dev/icons?i=ts,discord,cloudflare,docker,apple)
 
 
 ![](https://hit.yhype.me/github/profile?user_id=35580099)
