@@ -6,13 +6,14 @@
 Founder of [Buape Studios](https://buape.com) — a dev studio focused on quality applications and empowering next-gen developers. Creator of [Kiai](https://kiai.app), the leveling bot that actually slaps.
 
 I don't do cookie-cutter. No generic portfolios, no "yet another moderation bot." If it's been done a thousand times, I'm not interested. I build things that are different.
-Also a core maintainer of [OpenClaw](https://openclaw.ai) and wrangler of the Discord chaos there.
+Finished learning all that I want to learn with Discord bots, TypeScript, and web apps, so now I'm teaching myself Godot for my new game, Dungeon of Darkness
 
 Currently working on:
 - [Carbon](https://carbon.buape.com) — Framework for HTTP-based Discord bots
-- [OpenClaw](https://openclaw.ai) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [Kiai](https://kiai.app) - A powerful Discord bot for leveling and XP in your server
+- [Dungeon of Darkness](http://4shadowed.itch.io/dungeon-of-darkness) - A 2d puzzle roguelike game
 
-![Skills](https://skillicons.dev/icons?i=ts,discord,cloudflare,docker,apple)
+![Skills](https://skillicons.dev/icons?i=ts,discord,cloudflare,docker,apple,godot)
 
 
 ![](https://hit.yhype.me/github/profile?user_id=35580099)
